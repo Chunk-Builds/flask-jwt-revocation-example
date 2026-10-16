@@ -22,7 +22,7 @@ There's also a CLI command, `flask --app app prune-blocklist`, which deletes blo
 Requires Python 3.10+.
 
 ```bash
-git clone [REPO LINK] && cd jwt-revocation-example
+git clone https://github.com/Chunk-Builds/flask-jwt-revocation-example && cd flask-jwt-revocation-example
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
