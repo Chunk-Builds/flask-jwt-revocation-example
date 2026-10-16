@@ -78,7 +78,7 @@ curl -s $B/auth/me -H "Authorization: Bearer $TOKEN"
 
 ## Want more?
 
-*Optional:* if you want a fuller base with user CRUD, marshmallow validation, Flask-Migrate, a pytest suite and Docker/Postgres/Gunicorn, I sell a **Flask REST API Starter Kit** (₹799) on Topmate: [topmate.io/chunkbuilds](https://topmate.io/chunkbuilds)
+*Optional:* if you want a fuller base with user CRUD, marshmallow validation, Flask-Migrate, a pytest suite and Docker/Postgres/Gunicorn, I sell a **Flask REST API Starter Kit** (₹799) on Topmate (India only): [topmate.io/chunkbuilds](https://topmate.io/chunkbuilds)
 
 ## License
 
